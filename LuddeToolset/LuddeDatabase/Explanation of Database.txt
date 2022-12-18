@@ -1,0 +1,3 @@
+﻿The LuddeDatabase, LuDB, Database is a managed and secure way to control data storage from code.
+
+Working principle
